@@ -34,8 +34,8 @@ To get started with the Open Library Dashboard, follow these steps:
 ## Dummy Login Credentials
 To access the admin dashboard, use the following dummy credentials:
 
-## Username: admin
-## Password: password
+  Username: admin , 
+  Password: password
 
 ## Deployment
  The application is deployed using Vercel and can be accessed online at:
