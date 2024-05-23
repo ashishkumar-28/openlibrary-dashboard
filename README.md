@@ -31,16 +31,16 @@ To get started with the Open Library Dashboard, follow these steps:
 
 4. Access the application in your browser at http://localhost:3000.
 
-**Dummy Login Credentials**
+## Dummy Login Credentials
 To access the admin dashboard, use the following dummy credentials:
 
-Username: admin
-Password: password
+## Username: admin
+## Password: password
 
-**Deployment**
-The application is deployed using Vercel and can be accessed online at:
-https://openlibrary-dashboard-nine.vercel.app/ (or)
-https://openlibrary-dashboard-nine.vercel.app/dashboard
+## Deployment
+ The application is deployed using Vercel and can be accessed online at:
+ https://openlibrary-dashboard-nine.vercel.app/  (or)
+ https://openlibrary-dashboard-nine.vercel.app/dashboard
 
 
 
